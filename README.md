@@ -10,4 +10,6 @@ Something that I learned from this is that there are a number of ways to make we
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/localhost_52330_index.html.png)
 
+Link to the deployed application:
 
+URL: https://alexhannani.github.io/horiseon-code-refactoring/
